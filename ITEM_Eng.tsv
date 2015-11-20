@@ -1,10 +1,10 @@
-﻿ITEM_20150317_000001	$Empty_helmet 
+﻿ITEM_20150317_000001	$Vazio_elmo
 ITEM_20150317_000002	$Murmillo Helmet 
-ITEM_20150317_000003	$Empty_armband 
+ITEM_20150317_000003	$Vazio_braçadeira 
 ITEM_20150317_000004	$Braçadeira vermelha 
-ITEM_20150317_000005	$Armband 
+ITEM_20150317_000005	$Braçadeira
 ITEM_20150317_000006	$Knotted Armband 
-ITEM_20150317_000007	$Long Armband 
+ITEM_20150317_000007	$Braçadeira Longa
 ITEM_20150317_000008	$Feather Armband 
 ITEM_20150317_000009	$Tasseled Armband 
 ITEM_20150317_000010	$Empty_weapon 
@@ -14,7 +14,7 @@ ITEM_20150317_000013	$The standard weapon of the kingdom's soldiers. Also common
 ITEM_20150317_000014	$Gladius 
 ITEM_20150317_000015	$This weapon is an improved version of its military counterpart.
 ITEM_20150317_000016	{memo X}$Low Falchion 
-ITEM_20150317_000017	$This sword is exceptional for slashing. 
+ITEM_20150317_000017	$Essa espada é excepcional para cortar 
 ITEM_20150317_000018	{memo X}$Low Kaskara 
 ITEM_20150317_000019	$Due to its ease in manufacturing, this sword is frequently chosen by adventurers as their first replacement for their training sword. 
 ITEM_20150317_000020	$Cinquedea 
